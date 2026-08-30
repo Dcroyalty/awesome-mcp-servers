@@ -613,7 +613,7 @@ Cloud platform service integration. Enables management and interaction with clou
 ### 👨‍💻 <a name="code-execution"></a>Code Execution
 
 Code execution servers. Allow LLMs to execute code in a secure environment, e.g. for coding agents.
-
+- [CryptoRisk Agent Services](https://cryptorisk-api.vercel.app/api/mcp) - Pay-per-call primitives: LLM inference, scraping, extraction, embeddings, search, and EVM wallet risk scoring. Paid in USDC on Base via x402 — no API keys.
 - [alfonsograziano/node-code-sandbox-mcp](https://github.com/alfonsograziano/node-code-sandbox-mcp) 📇 🏠 – A Node.js MCP server that spins up isolated Docker-based sandboxes for executing JavaScript snippets with on-the-fly npm dependency installation and clean teardown
 - [alvii147/piston-mcp](https://github.com/alvii147/piston-mcp) 🐍 ☁️ 🐧 🍎 🪟 - MCP server that lets LLMs execute code through the Piston remote code execution engine, with a zero-config `uv` setup and a ready-to-use Claude Desktop config example.
 - [asif-nvc/e2b-sandbox-mcp](https://github.com/asif-nvc/e2b-sandbox-mcp) [![asif-nvc/e2b-sandbox-mcp MCP server](https://glama.ai/mcp/servers/asif-nvc/e2b-sandbox-mcp/badges/score.svg)](https://glama.ai/mcp/servers/asif-nvc/e2b-sandbox-mcp) 📇 ☁️ 🍎 🪟 🐧 - Connect Claude Code with E2B cloud sandboxes — 29 tools for creating isolated Linux VMs, cloning repos, running commands, managing files, and performing git operations without touching the local machine.
